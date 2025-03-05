@@ -35,6 +35,7 @@ const data = [
       info: "Severe obesity",
       obesity: "III",
     },
+    
   ];
 
 // Selection of elements
